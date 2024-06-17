@@ -2,7 +2,6 @@
 #include <SDL_image.h>
 #include <iostream>
 
-
 int main(int argv, char** args)
 {
     SDL_Init(SDL_INIT_EVERYTHING);
