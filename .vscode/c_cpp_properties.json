@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}\\_SDL2\\include"
+                //"C:\\library\\SDL2\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "C:/mingw64/bin/g++.exe"
+        }
+    ],
+    "version": 4
+}
